@@ -13,4 +13,4 @@ print("Let's learn to code!")
 # Python solves math problems.
 print(5 + 6)  # Addition example
 
-print(7*3)
+print(7*3)    # Multiplication example
