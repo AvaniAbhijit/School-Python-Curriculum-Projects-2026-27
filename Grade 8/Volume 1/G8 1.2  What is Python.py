@@ -5,7 +5,7 @@
 
 
 # Task 1: Run the code and check the output.
-# Task 2: Change the number for addition(line no.14) and multiplication (line no. 16).
+# Task 2: Change the number for addition(line no.20) and multiplication (line no. 22).
 # Task 3: Write the print statement to subtract two numbers
 
 
