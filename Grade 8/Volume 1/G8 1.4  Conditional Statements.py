@@ -1,27 +1,18 @@
-# Conditional statements help Python take decisions.
-# Python checks a condition and decides which code to run.
-# If the condition is True, one block runs.
-# If the condition is False, another block runs.
-# Operators are used to create conditions.
-# They help Python compare values or combine conditions.
+# Conditional statements: Python decides which code to run based on whether a condition is True or False.
+# Operators: Symbols used to compare values or combine conditions in Python.
+
 
 # COMPARISON OPERATORS
-# >   Greater than
-# <   Less than
-# >=  Greater than or equal to
-# <=  Less than or equal to
-# ==  Equal to
-# !=  Not equal to
+# > (Greater than), < (Less than), >=  (Greater than or equal to), <=  (Less than or equal to)
+# ==  (Equal to), !=  (Not equal to)
 
 # LOGICAL OPERATORS
-# and → All conditions must be True
-# or  → Any one condition must be True
+# and → All conditions must be True, or  → Any one condition must be True, 
 # not → Reverses the condition (True becomes False)
+
 
 # Task 1: Run the program and observe the output.
 # Task 2: Change the values of age, score, lives, and bonus.
-# Task 3: Try changing True to False and see the result.
-# Task 4: Create one new condition of your own.
 
 # Example 1: Simple if-else condition
 # This checks if the age is 13 or more
