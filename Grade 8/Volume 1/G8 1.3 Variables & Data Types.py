@@ -1,17 +1,19 @@
+# Variables are used to store information in a program. 
+# The value of a variable can be changed while the program is running.
+# Data types tell Python what kind of value is stored in a variable, such as a number,
+# text, or True/False.
+
+
 # Task 1: Run the code and check the output.
 # Task 2: Change the values of the variables.
 # Task 3: Create one new variable of your choice and print it.
 
-
-# Python uses variables to store information.
 name = "Aarav"
 age = 13
 
 print(name)
 print(age)
 
-
-# Python supports different data types.
 
 # 1. String (text data)
 school = "Green Valley School"
@@ -32,15 +34,11 @@ print(height)
 is_student = True
 print(is_student)
 
-
-# Python can also tell us the data type of a variable.
 print(type(name))
 print(type(age))
 print(type(height))
 print(type(is_student))
 
-
-# Python allows math operations using variables.
 a = 10
 b = 5
 
