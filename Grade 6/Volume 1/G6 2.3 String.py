@@ -13,17 +13,14 @@ name = "Riya"
 print(name)
 
 # String Repetition - Using * to repeat a string
-
-word = "Hi "
+word = "Orchids "
 print(word * 3)
 
 # Finding Length of a String -len() gives the number of characters in a string.
-
 text = "Python"
 print(len(text))
 
 # Accessing Characters using Index - Index starts from 0 and ends with n-1.
-
 subject = "Coding"
 print(subject[0])   # First character
 print(subject[3])   # Fourth character
