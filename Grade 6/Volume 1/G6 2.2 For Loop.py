@@ -16,7 +16,3 @@ for num in range(1, 11):
 # repeats based on the number of letters in the string - Orchids
 #for letter in "Orchids":
 #    print(letter)
-
-
-
-
