@@ -13,16 +13,13 @@ num = (11,55,66,33)
 print(num)
 
 # Length of a Tuple - len() gives the number of items in the tuple
-
 print(len(num))
 
 # Accessing Items using Index - starts from 0
-
 print(num[0])   # First item
 print(num[2])   # Third item
 
 # Looping through a Tuple
-
 for n in num:
     print(num)
 
