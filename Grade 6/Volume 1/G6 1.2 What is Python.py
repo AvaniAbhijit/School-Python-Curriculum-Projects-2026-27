@@ -7,12 +7,12 @@
 # Whatever we write inside print() will appear as output when the program runs.
 
 # What is a comment in Python?
-# is used to comment out the code in Python. Comments are information about the code for the reader.)
+# For comment in python # is used.Comments provide information about the code for the reader.
 
 
 # Task 1: Run the code and check the output.
 # Task 2: Change the number for addition(line no.26) and multiplication (line no. 28).
-# Task 3: Write the print statement to subtract two numbers
+# Task 3: Write the print statement to subtract two numbers.
 
 
 # Python helps us print a one-line statement.
