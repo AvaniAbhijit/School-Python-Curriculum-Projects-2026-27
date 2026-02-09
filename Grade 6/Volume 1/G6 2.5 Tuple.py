@@ -7,7 +7,6 @@
 # Task 3: Print the first item of the tuple using index.
 # Task 4: Print all items in the tuple using a for loop.
 
-
 # Creating a Tuple
 num = (11,55,66,33)
 print(num)
