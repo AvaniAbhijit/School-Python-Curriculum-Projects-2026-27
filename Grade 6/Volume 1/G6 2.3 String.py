@@ -1,11 +1,11 @@
 # What is a String?
 # A string is a group of characters.
 # Strings are written inside single (' ') or double (" ") quotes.
-# Example: "Hello", "Python", "School"
+# Example: 'Hello', "Python".
 
 # Task 1: Repeat the word "Hello" 5 times.
 # Task 2: Print the length of the word "Computer".
-# Task 3: Print the first letter of your school name using index.
+# Task 3: Print the first letter of your school name using an index.
 
 
 # Creating a String
