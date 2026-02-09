@@ -2,14 +2,14 @@
 # They check a condition and run code based on True or False.
 
 # Types of Conditional Statements:
-# 1. if statement - if runs when condition is True
-# 2. if-else statement - if runs when condition is True
-#                        else runs when condition is False
+# 1. if statement - if runs when the condition is True.
+# 2. if-else statement - if runs when the condition is True
+#                        else runs when the condition is False.
 
 
-# Task 1: Run the code and check the output
-# Task 2: Change the values and observe the result
-# Task 3: Create your own condition using if and else
+# Task 1: Run the code and check the output.
+# Task 2: Change the values and observe the result.
+# Task 3: Create your own condition using if and else.
 
 # if statement
 age = 12
