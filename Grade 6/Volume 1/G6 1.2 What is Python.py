@@ -2,7 +2,7 @@
 # Python is a programming language used for mathematical operations, 
 # game development, website development, software development, etc.
 
-# What print()?
+# What is print()?
 # The print statement is used to show information on the screen.
 # Whatever we write inside print() will appear as output when the program runs.
 
