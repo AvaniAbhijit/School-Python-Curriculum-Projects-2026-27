@@ -9,10 +9,8 @@
 # What is a comment in Python?
 # For comment in python # is used.Comments provide information about the code for the reader.
 
-
-# Task 1: Run the code and check the output.
-# Task 2: Change the number for addition(line no.26) and multiplication (line no. 28).
-# Task 3: Write the print statement to subtract two numbers.
+# Task 1: Uncomment the line 24 and 26 and run the code.
+# Task 2: Enter actual number in place of number 1 and number 2 on line no 24 and 26.
 
 
 # Python helps us print a one-line statement.
@@ -23,6 +21,6 @@ print("Welcome to our Python class.")
 print("Let's learn to code!")
 
 # Python solves math problems.
-print(5 + 6)  # Addition example
+# print(number1 + number2)  # Addition example
 
-print(7*3)    # Multiplication example
+# print(number1 * number2)    # Multiplication example
