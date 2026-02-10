@@ -22,30 +22,25 @@
 
 
 # Task 1: Run the code and check the output.
-# Task 2: Change the values of the variables.
-# Task 3: Create one new variable for each data type.
-# Task 4: Check the data type of all variables using type().
+# Task 2: Complete the code on lines 36, 41, and 46 to check the data type.
 
 
 # String data type
 student_name = "Riya"
 print(student_name)
+print(type(student_name))
 
 # Integer data type
 student_age = 11
 print(student_age)
+# print()
 
 # Float data type
 percentage = 92.5
 print(percentage)
+#print()
 
 # Boolean data type
 is_student = True
 print(is_student)
-
-
-# Checking the data type of variables
-print(type(student_name))
-print(type(student_age))
-print(type(percentage))
-print(type(is_student))
+#print()
