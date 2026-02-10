@@ -3,34 +3,21 @@
 # Strings are written inside single (' ') or double (" ") quotes.
 # Example: 'Hello', "Python".
 
-# Task 1: Repeat the word "Hello" 5 times.
-# Task 2: Print the length of the word "Computer".
-# Task 3: Print the first letter of your school name using an index.
 
+# Task 1: Find and print the length of the word "School" using len(variable_name) on line 17.
+# Task 2: Print the second letter of the word "Python" using language[1] on line 21.
+# Task 3: Print each letter of the word "CODING" using for letter in "CODING" on line 24 onwords.
 
 # Creating a String
 name = "Riya"
 print(name)
 
-# String Repetition - Using * to repeat a string
-word = "Orchids "
-print(word * 3)
-
-# Finding Length of a String -len() gives the number of characters in a string.
-text = "Python"
-print(len(text))
-
-# Accessing Characters using Index - Index starts from 0 and ends with n-1.
-subject = "Coding"
-print(subject[0])   # First character
-print(subject[3])   # Fourth character
+# Finding Length of a String
+text = "School"
 
 
-# Looping through a String
-for letter in "CAT":
-    print(letter)
+# Accessing Characters using Index
+language = "Python"
 
-# Changing Case of String
-message = "hello"
-print(message.upper())   # Converts to CAPITAL letters
-print(message.lower())   # Converts to small letters
+
+# use a loop to print each letter of "CODING."
