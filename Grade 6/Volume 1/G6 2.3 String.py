@@ -6,14 +6,14 @@
 
 # Task 1: Find and print the length of the word "School" using len(variable_name) on line 17.
 # Task 2: Print the second letter of the word "Python" using language[1] on line 21.
-# Task 3: Print each letter of the word "CODING" using for letter in "CODING" on line 24 onwords.
+# Task 3: Print each letter of the word "CODING" using for letter in "CODING" on line 24 onwards.
 
 # Creating a String
 name = "Riya"
 print(name)
 
 # Finding Length of a String
-text = "School"
+text = "Orchid School"
 
 
 # Accessing Characters using Index
