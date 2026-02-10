@@ -1,4 +1,4 @@
-# What is variables?
+# What are variables?
 # Variables are used to store information in a program.
 # The value of a variable can be changed while the program is running.
 
@@ -14,13 +14,8 @@
 
 # Variable names should be meaningful. This helps us understand what data is stored in the variable.
 
-
-# Task 1: Run the code and check the output.
-# Task 2: Change the values of the variables.
-# Task 3: Create one new variable by following the variable rules.
-# Task 4:Uncomment line 31 & 32 and run the code, fix the error.
-
-
+# Task 1: Run the code and check the output. Change the values of the variables.
+# Task 2: Uncomment lines 26 & 27 and run the code, fix the error.
 
 student_name = "Riya"
 student_age = 11
