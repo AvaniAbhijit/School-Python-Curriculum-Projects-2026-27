@@ -1,14 +1,14 @@
 # The while loop is used when you want to repeat instructions until a condition is false.
-# True and False are Boolean values.
 
-# Task 1: Run the code and observe the output.
-# Task 2: Change the code to print the numbers in reverse order from 20 to 1 using a while loop.
+# Task 1: Complete the code on lines 7 & 8.
+# Task 2: Complete the code on lines 12 & 13.
+# Task 3: Change the code to print the numbers in reverse order from 20 to 1 using a while loop.
 
-running = True
-num = 0
+                                 # Create a variable running and assign True.
+                                 # Create a variable num and assign 0.
 while running:
     num = num + 5
     print(num, " in while loop")
-    if num > 20:
-        running = False
+                                 # Write an if condition to check if num is greater than 20.
+                                 # set the Running variable to false.
 print("done running while loop")
