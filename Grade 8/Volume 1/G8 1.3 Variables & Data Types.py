@@ -4,25 +4,21 @@
 # text, or True/False.
 
 
-# Task 1: Run the code and check the output.
+# Task 1: Print the variable value and its type using type(variable_name) on lines 20 and 21.
 # Task 2: Change the values of the variables.
 # Task 3: Create one new variable of your choice and print it.
 
-name = "Aarav"
-age = 13
-
-print(name)
-print(age)
-
 
 # 1. String (text data)
-school = "Green Valley School"
-print(school)
-
+school = "Green Valley School" # school is a variable here, and "Green Valley School" is a value.
+                               # print variable value.
+                               # print variable data type.
 
 # 2. Integer (whole numbers)
-marks = 85
-print(marks)
+                              # Create a variable that has an integer value.
+                              # print variable value.
+                              # print variable data type.
+
 
 
 # 3. Float (decimal numbers)
@@ -34,15 +30,3 @@ print(height)
 is_student = True
 print(is_student)
 
-print(type(name))
-print(type(age))
-print(type(height))
-print(type(is_student))
-
-a = 10
-b = 5
-
-print(a + b)   # Addition
-print(a - b)   # Subtraction
-print(a * b)   # Multiplication
-print(a / b)   # Division
