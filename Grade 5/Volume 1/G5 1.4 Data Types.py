@@ -17,7 +17,7 @@
 
 favorite_food = "Pizza"     # String
 marks = 95                  # Integer
-is_present = False          # Boolean
+present = False          # Boolean
 
                            # print variable favorite_food
                            # print variable marks
