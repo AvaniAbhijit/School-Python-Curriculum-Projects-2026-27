@@ -1,5 +1,6 @@
 # Variables are used to store information in a program. 
 # The value of a variable can be changed while the program is running.
+
 # Rules of variables :
 # 1. Variable name must start with a letter or underscore (_).
 #       It cannot start with a number.
@@ -9,6 +10,7 @@
 #       Age and age are treated as different variables.
 # 4. Numbers and special symbols are not allowed in variable names.
 #       Only letters, numbers (not at start), and underscore (_) are allowed.
+
 # Data types tell Python what kind of value is stored in a variable, such as a number,
 # text, or True/False.
 
