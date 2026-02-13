@@ -21,7 +21,7 @@ student_name = "Riya"
 student_age = 11
 
 print(student_name)
-print(student_age)
+print(Student_Age)
 
 #2student_marks=84
 #print(2student_marks)
