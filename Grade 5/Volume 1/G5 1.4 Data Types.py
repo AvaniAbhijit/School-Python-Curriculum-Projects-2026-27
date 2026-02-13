@@ -12,8 +12,8 @@
 # 3. Boolean - Used to store True or False values.
 # The first letter must be capital (True / False).
 
-#Task 1: Print all variables from line 30 onwards.
-#Task 2: Check the data types of the variables marks and is_present.
+#Task 1: Print all variables from line 22 onwards.
+#Task 2: Check the data types of the variables marks and is_present on lines 27 and 28.
 
 favorite_food = "Pizza"     # String
 marks = 95                  # Integer
