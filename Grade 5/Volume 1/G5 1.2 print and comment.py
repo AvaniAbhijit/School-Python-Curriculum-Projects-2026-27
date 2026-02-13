@@ -9,7 +9,7 @@
 # What is a comment in Python?
 # For comment in python # is used.Comments provide information about the code for the reader.
 
-# Task 1: Uncomment the line 24 and 26 and run the code.
+# Task 1: Uncomment the line 23 and 25 and run the code.
 # Task 2: Change the number of your choice on lines 23 and 25.
 
 # Python helps us print a one-line statement.
