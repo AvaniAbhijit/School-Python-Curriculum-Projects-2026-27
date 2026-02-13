@@ -4,7 +4,7 @@
 
 # What is Indentation?
 # Indentation means giving space before a line to show it belongs inside a block.
-# On line 13,14 has a space before the line, hence it belongs to the if block.
+# Line 13 and 14 has space before it, and hence they belong to the if block.
 
 # Task 1: Change the value of score to 40 on line 10.
 
