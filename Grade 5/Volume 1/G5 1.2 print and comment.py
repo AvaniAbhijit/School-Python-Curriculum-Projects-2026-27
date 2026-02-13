@@ -10,7 +10,7 @@
 # For comment in python # is used.Comments provide information about the code for the reader.
 
 # Task 1: Uncomment the line 23 and 25 and run the code.
-# Task 2: Change the number of your choice on lines 23 and 25.
+# Task 2: Change the numbers in lines 23 and 25, do subtraction (-) and division(/), then run the program.
 
 # Python helps us print a one-line statement.
 print("Hello, students!")
