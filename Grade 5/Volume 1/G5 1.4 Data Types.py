@@ -2,7 +2,7 @@
 # Data types tell us what kind of data a variable is storing.
 # Python uses different data types to store different kinds of values.
 
-# Types of Data Types:
+# Types of Data :
 # 1. String - Used to store text data. 
 # Text is always written inside quotes (" ").
 
@@ -13,7 +13,7 @@
 # The first letter must be capital (True / False).
 
 #Task 1: Print all variables from line 30 onwards.
-#Task 2: Check the datatype of the variable marks and is_present.
+#Task 2: Check the data types of the variables marks and is_present.
 
 favorite_food = "Pizza"     # String
 marks = 95                  # Integer
