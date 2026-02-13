@@ -5,10 +5,10 @@
 # A list with nothing inside it.
 
 # List with Strings:
-# When we store words (text) inside a list. Words must be inside quotes.
+# When we store words (text) inside a list. Words must be inside quotes and separated by a comma.
 
-# Task 1 : Complete the code on line 15,21 and 25.
-# Task 2 : Complete the code from line 27 to 31.
+# Task 1: Complete the code on line 15,21 and 25.
+# Task 2: Uncomment and complete the code from lines 27 to 31.
 
 
 fruits = []                           # This is an empty list
@@ -24,7 +24,7 @@ fruits.append("Orange") # Adds Orange to the list
 fruits.remove("Banana") # Removes Banana from the list
                         # print the list to see the updated list.
 
-                         # Create empty list name toys.
+                         # Create an empty list named toys.
 #toys._________("Car")   # Add "Car" to the toys list using append().
 #toys._________("Doll")  # Add "Doll" to the toys list.
 #toys._________("Car")   # Remove "Car" from the list using remove().
