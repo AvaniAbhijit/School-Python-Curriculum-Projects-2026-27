@@ -5,9 +5,7 @@
 # 2. if-else statement - if runs when the condition is True
 #                        else runs when the condition is False.
 
-# Task 1: Uncomment line 19 to 22 and complete the code.
-# Task 2:Take a number from the user,If the number is even, print "Even Number"
-#        Else, print "Odd Number"
+# Task 1: Uncomment line 17 to 20 and complete the code.
 
 marks = 35
 if marks > 40:
