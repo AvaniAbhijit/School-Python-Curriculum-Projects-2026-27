@@ -2,10 +2,12 @@
 # They help us compare values and make decisions in a program.
 
 # Types of Operators covered here:
-# 2. Logical Operators (and , or)
+# 2. Logical Operators (and, or)
 
-# Task 1: Run the code and check the output.
-# Task 2: Combine and and or Operators to create a condition on line 19 onwords.
+
+# Task 1: Age Checker - A child can join the club if their age is between 10 and 15.
+#         Write code to check the condition.
+# Task 2: Weather Decision - We go outside if: it is sunny OR the temperature is greater than 25.
 
 # Logical Operators
 # and operator - Returns True if BOTH conditions are True
