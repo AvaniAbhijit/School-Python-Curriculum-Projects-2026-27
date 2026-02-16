@@ -1,3 +1,2 @@
-# Task 1: Print the ven number from 50 to 70.
-# Task 2: Write the while loop for.
-# Task 3: Write while loop  to print the numbers in reverse order from 20 to 1.
+# Task 1: Print the even numbers from 50 to 70 using a for loop with range().
+# Task 2: Writea  while loop  to print the numbers in reverse order from 20 to 1.
