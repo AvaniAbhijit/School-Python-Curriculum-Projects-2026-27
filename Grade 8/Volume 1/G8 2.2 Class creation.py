@@ -4,7 +4,7 @@
 # What is a function in the class?
 # A function is an action or task.It tells what the class can do.
 
-# Task 1 : Create Your Own Class - Create a class named Juice - Print “Fresh Juice Ready!”
+# Task 1 : Create Your Own Class - Create a class named Sport - Print “Welcome to Sports Academy”
 
 
 class Pizza:  # Create a class named Pizza (this is a blueprint)
