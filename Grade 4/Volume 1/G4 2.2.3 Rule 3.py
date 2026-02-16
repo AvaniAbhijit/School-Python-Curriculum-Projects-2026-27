@@ -1,4 +1,4 @@
-# Rule 3: Python is case-sensitive.Age and age are two different variable.
+# Rule 3: Python is case-sensitive. Age and age are two different variables.
 
 # Task 1: remove # in lines 12 & 13 and run the code and fix the error.:
 
