@@ -10,4 +10,4 @@ marks = 90   #marks is the variable name ,90 is the value.
 print(marks)
 
 #1name = "rahul"
-#print(1name)
+
