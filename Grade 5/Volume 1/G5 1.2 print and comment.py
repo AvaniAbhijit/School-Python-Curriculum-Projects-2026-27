@@ -1,16 +1,14 @@
 # What is Python?
-# Python is a programming language used for mathematical operations,
-# game development, website development, software development, etc.
+# Python is a computer language.We use Python to tell the computer what to do.
 
 # What is print()?
-# The print statement is used to show information on the screen.
-# Whatever we write inside print() will appear as output when the program runs.
+# print() shows words or numbers on the screen.
 
-# Task 1: print 
+# Task 1: Print all your details like, Name,Age and Grade.
 
-# Python helps us print a one-line statement.
-print("Hello, students!")
+print("Hello students!")  # This prints one line.
 
-# Python helps us print multiple lines.
-print("Welcome to our Python class.")
-print("Let's learn to code!")
+# This prints more than one line.
+print("Welcome to Python class.")
+print("Python is fun!")
+
