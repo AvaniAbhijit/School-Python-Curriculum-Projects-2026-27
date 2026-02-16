@@ -2,7 +2,7 @@
 
 # Task 1: Complete the code on lines 7 & 8.
 # Task 2: Complete the code on lines 12 & 13.
-# Task 3: Change the code to print the numbers in reverse order from 20 to 1 using a while loop.
+
 
                                  # Create a variable running and assign True.
                                  # Create a variable num and assign 0.
