@@ -1,6 +1,11 @@
+# What is __init__?
+# __init__ is a special function that runs automatically when an 
+# object is created.
+# It is used to give starting values to the object.
+# It helps each object store its own data.
 
-
-
+# Task 1 : Create Two Sport Objects for the class Sport.
+#          Create two sports: Cricket and Basketball
 
 
 class Pizza:                              # Create a class named Pizza (blueprint)
