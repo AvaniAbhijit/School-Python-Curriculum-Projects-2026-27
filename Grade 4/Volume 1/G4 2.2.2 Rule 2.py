@@ -6,4 +6,3 @@ student_name = "Riya"
 print(student_name)
 
 #english marks = 80
-#print(english marks)
