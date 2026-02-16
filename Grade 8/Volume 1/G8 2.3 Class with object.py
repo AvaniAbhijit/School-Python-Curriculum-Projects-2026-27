@@ -9,12 +9,12 @@
 #       2. Print “Welcome to Sports Academy”
 #       3. Create an object and call the function
 
-class Pizza:                           # Create a class named Pizza (blueprint)
+class Pizza:  # Create a class named Pizza (this is a blueprint)
 
-    def show_message(self, flavor):    # Function inside the class
-                                      # self → the object using the function
-                                      # flavor → value given when function is called
-        print("This is", flavor)      # Print the pizza flavor
+    def show_message():                  # Define a function inside the class
+        print("Welcome to Pizza Shop!")  # This line prints a message
+
+Pizza.show_message()                     # Call the function using the class name
 
 
 p1 = Pizza()                          # Create an object from the class
