@@ -28,7 +28,7 @@ print(type(school))            # print variable data type.
                               # print variable data type.
 
 # 3. Float (decimal numbers)
-                              # Create a variable that has an integer value.
+                              # Create a variable that has an float value.
                               # print variable value.
                               # print variable data type.
 
