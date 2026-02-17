@@ -1,6 +1,17 @@
+# Nested for loop means one loop runs inside another loop, 
+# so the inner loop repeats fully for each outer loop value.
+
+# Task 1: Uncomment the inner loop on line 13, & 14.
+# Task 2: Uncomment the line 15 and see the change.
+# Task 3: Change the range for outer for loop.
+
 # Print numbers from 120 to 145 using nested loops
 
-for num in range(1, 5):     # Outer loop
-    print(num)
-    #for i in range(1, 3):       # Inner loop (runs 2 times for each num)
-    #   print("Number:", num, "Repeat:", i)
+for row in range(1, 6):        # Outer loop controls rows
+    print(row)
+
+    #for star in range(0,row):    # Inner loop prints stars
+    #   print("*", end=" ")
+    #print() 
+
+    
