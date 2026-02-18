@@ -9,13 +9,8 @@
 #       **	Power	                         2 ** 3 → 8
 
 
-# Task : Build a mini caluclator, which will 
-#        1. Accepts two number from the User.
-#        2. Perfome following operations on the two numbers -
-#           2.1 Addition 
-#           2.2 Subtraction
-#           2.3 Multiplication
-#           2.4 Division
-#           2.5 Divisibility 
+# Task: Build a mini calculator which accepts two numbers from the User and uses the above operators.
+
+
 
 
