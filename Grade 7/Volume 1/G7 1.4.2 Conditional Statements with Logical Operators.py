@@ -19,7 +19,7 @@ else:
 
 extra_life = True
 # Using logical operator OR, check if there are extra_life or if lives is more than zero.
-                                         # It is checking any one condition must be True.
+                                         # Check if any one condition must be True.
 
 
 
