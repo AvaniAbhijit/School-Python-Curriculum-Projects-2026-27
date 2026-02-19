@@ -3,21 +3,21 @@
 # Strings are written inside single (' ') or double (" ") quotes.
 # Example: 'Hello', "Python".
 
+# Indexing means accessing a specific character from a string using its position number.
+# Index starts from 0 and is used within square brackets [ ].
 
-# Task 1: Find and print the length of the word "School" using len(variable_name) on line 17.
-# Task 2: Print the second letter of the word "Python" using language[1] on line 21.
-# Task 3: Print each letter of the word "CODING" using for letter in "CODING" on line 24 onwards.
+# Task 1: Complete the code on line 19 using the len() function.
+# Task 2: Complete the code on line 20 using the index[].
+# Task 3: Print each letter of the word "CODING" using for letter in "CODING" on line 23 onwards.
 
-# Creating a String
-name = "Riya"
-print(name)
+name = "Riya"            # Storing a string in the name variable.
+print(name)              # Printing name variable.
+print(len(name))         # Printing length of name using len() function.
+print(name[2])           # Printing the third character from the name variable.
 
-# Finding Length of a String
 text = "Orchid School"
+                                 # print the length of text. 
+                                 # print the 6th character
 
 
-# Accessing Characters using Index
-language = "Python"
-
-
-# use a loop to print each letter of "CODING."
+                                   # use a loop to print each letter of "CODING."
