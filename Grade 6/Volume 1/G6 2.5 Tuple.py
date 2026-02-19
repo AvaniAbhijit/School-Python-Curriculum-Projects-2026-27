@@ -1,6 +1,6 @@
 # What is a Tuple?
 # A tuple is used to store multiple values in one variable.
-# A tuple is written using round brackets( ).
+# A tuple is written using round brackets().
 
 # Task 1: Print the length of the tuple on a line on line 14.
 # Task 2: Print the first item of the tuple using index on line 17.
