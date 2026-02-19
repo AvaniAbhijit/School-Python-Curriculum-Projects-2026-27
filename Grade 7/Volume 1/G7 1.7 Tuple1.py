@@ -2,19 +2,20 @@
 # A tuple is used to store multiple values in one variable.
 # A tuple is written using round brackets( ).
 
-# Task 1: Print the length of the tuple on a line on line 14.
-# Task 2: Print the first item of the tuple using index on line 17.
-# Task 3: Uncomment line 20 and print the tuple and solve the error.
+# Indexing in a tuple means accessing individual items from a tuple using their position number.
+# Index always starts from 0
+#        First item → index 0
+#        Second item → index 1
 
-# Creating a Tuple
-num = (11,55,66,33)
-print(num)
+# Task 1: Uncomment line 21 and print the tuple and solve the error.
+# Task 2: Create a tuple of names from line 23 onwards.- 
+#         1. Print the tuple
+#         2. Print the length of the tuple
+#         3. Print the second name from the tuple using the index.
 
-# print length of a Tuple
+num = (11,55,66,33)       # Creating a Tuple.
+print(num)                # Print tuple.
+print(len(num))           # printing length of a Tuple.
+print(num[0])             # Accessing Items using Index - starts from 0.
 
-
-# Accessing Items using Index - starts from 0
-
-
-# Tuples cannot be changed. We cannot add or remove items from a tuple.
-# num.append(99)
+# num.append(99)          # Tuples cannot be changed. We cannot add or remove items from a tuple.
