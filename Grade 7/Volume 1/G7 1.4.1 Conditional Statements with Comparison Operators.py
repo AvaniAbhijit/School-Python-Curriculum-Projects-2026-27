@@ -6,7 +6,7 @@
 # ==  (Equal to), !=  (Not equal to)
 
 # Task 1: Run the code and check the output.
-# Task 2: Uncomment lines 24 & 26. Complete the code on lines 24 to 27.
+# Task 2: Uncomment lines 23 & 25. Complete the code on lines 24 to 27.
 
 # Simple if-else condition - This checks if the age is 13 or more
 age = 14
@@ -22,7 +22,6 @@ if score >= 90:
     print("Excellent Performance")
 #elif_______:                         # Check if score more than 70
                                       # print Good Performance
-#else:                                # print Need more practice
+#else:                               
+                                       # print Need more practice
 
-else:
-    print("Game stopped.")
