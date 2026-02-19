@@ -9,6 +9,7 @@
 while running:
     num = num + 5
     print(num, " in while loop")
-                                 # Write an if condition to check if num is greater than 20.
+                                 # Write an if condition inside while loop to check if num is greater than 20.
                                  # set the Running variable to false.
+
 print("done running while loop")
