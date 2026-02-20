@@ -12,7 +12,7 @@
 
 # Simple if-else condition - This checks if the age is 13 or more
 age = 14
-if age >= 13:
+if age <= 13:
     print("You can play this game.")      # indented code runs if the condition is True
 else:
     print("You are too young to play.")   # indented code runs if the condition is False
