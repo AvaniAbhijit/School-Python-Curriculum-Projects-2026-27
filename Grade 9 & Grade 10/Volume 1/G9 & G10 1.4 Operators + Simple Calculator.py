@@ -9,7 +9,8 @@
 #       **	Power	                         2 ** 3 → 8
 
 
-# Task: Build a mini calculator which accepts two numbers from the User and uses the above operators.
+# Task: Build a mini calculator which accepts two numbers from the user and uses the above operators.
+
 
 
 
