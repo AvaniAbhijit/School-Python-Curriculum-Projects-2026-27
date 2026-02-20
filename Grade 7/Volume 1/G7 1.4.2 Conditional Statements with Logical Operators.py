@@ -6,8 +6,8 @@
 # not → Reverses the condition (True becomes False)
 
 # Task 1: Change bonus to True on line 13 and observe the output.
-# Task 2: Uncomment line 21. Write the code line 23 onwards using OR operator.
-# Task 3: Uncomment line 29 and 31. Complete the code for NOT conditions on line 32 onwards.
+# Task 2: Uncomment line 21. Write the code line 23 onwards using the OR operator.
+
 
 lives = 1
 bonus = False
@@ -18,17 +18,10 @@ if lives > 0 and bonus == False:          # It is checking both conditions are t
 else:
     print("Game Over!")
 
-#extra_life = True
-# Using logical operator OR, check if there are extra_life or if lives is more than zero.
-                                         # Check if any one condition must be True.
+#extra_life = False
+# Using logical operator OR, check if there is extra_life or if lives is more than zero.
+
+                                    # Check if any one condition must be True.
 
 
 
-
-# NOT reverses the condition
-#game_over = False
-
-#if not game_over:
-                                      # print("Game is running.")
-
-                                      # print("Game stopped.")
