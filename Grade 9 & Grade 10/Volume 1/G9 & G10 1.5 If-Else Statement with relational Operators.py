@@ -10,34 +10,17 @@
 #   == (Equal to)	                10 == 10	          True
 #   !=	(Not equal to)	            5 != 3	              True
 
-# Task : Write a code to check user enter number is Even or Odd.
+# Task: Write a code to check user enter number that is even or Odd line 23 onwards.
+#       Hint: num%2==0
 
 marks = int(input("Marks: "))
 
-if marks >= 50:  # >= is a relational operator and If the condition is True, this block runs.
+if marks >= 50:        # >= is a relational operator, and if the condition is True, this block runs.
     print("Pass")
-else:            # If the condition is False → else block runs.
+else:                  # If the condition is False → else block runs.
     print("Fail")
 
 
 
-
-
-
-
-
-
-
-
-
-# Task : Grade calculator.
-
-temp = int(input("Temperature: "))
-if temp > 35:
-    print("Hot")
-elif temp > 20:
-    print("Warm")
-else:
-    print("Cold")
 
 
