@@ -7,8 +7,9 @@
 #        First item → index 0
 #        Second item → index 1
 
-# Task 1: Uncomment line 21 and print the tuple and solve the error.
-# Task 2: Create a tuple of names from line 23 onwards.- 
+# Task 1: Uncomment line 22 and check the error. Comment it back.
+# Challenge: Think of a way to modify a tuple.
+# Task 2: Create a tuple of names from line 24 onwards.-
 #         1. Print the tuple
 #         2. Print the length of the tuple
 #         3. Print the second name from the tuple using the index.
