@@ -1,4 +1,4 @@
-# Variables are used to store information in a program. 
+# Variables are used to store information in a program.
 # The value of a variable can be changed while the program is running.
 
 # Rules of variables :
@@ -11,11 +11,11 @@
 # 4. Numbers and special symbols are not allowed in variable names.
 #       Only letters, numbers (not at start), and underscore (_) are allowed.
 
-# Data types tell Python what kind of value is stored in a variable, such as a number,
-# text, or True/False.
+# Data type tells Python what kind of value is stored in a variable, such as a number, text, or True/False.
 
 
-# Task 1: Print the variable value and its type using type(variable_name).
+# Task 1: Define the integer, float and Boolean variables on line 26, 31 and 36
+# Task 2: Print their values and its type using type(variable_name).
 
 # 1. String (text data)
 school = "Green Valley School" # school is a variable here, and "Green Valley School" is a value.
