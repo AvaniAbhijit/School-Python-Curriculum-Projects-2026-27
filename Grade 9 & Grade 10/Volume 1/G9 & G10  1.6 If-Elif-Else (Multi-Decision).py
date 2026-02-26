@@ -7,8 +7,6 @@
 #       3. "Cool" if temperature is 15–24.
 #       4. "Cold" if temperature is below 15.
 
-
-# If-Elif-Else (Multi-Decision)
 # Phone automatically changes notification mode based on location.
 
 location = "school"
@@ -22,6 +20,7 @@ elif location == "meeting":
 else:
     print("Manual Mode")              # Unknown place
     
+
 
 
 
