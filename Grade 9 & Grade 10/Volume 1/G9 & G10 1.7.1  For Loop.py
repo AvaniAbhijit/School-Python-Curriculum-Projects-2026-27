@@ -12,3 +12,6 @@ for level in range(1, 6):
     print("Level", level, "Unlocked")     # Unlocks Level 1 to 5
 
 print("All Levels Ready!")
+
+
+
