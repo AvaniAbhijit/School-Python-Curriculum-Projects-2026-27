@@ -2,7 +2,7 @@
 # The for loop is used when you know how many times to repeat the instructions.
 # Observe the indentation of code within the for loop.
 
-# Task 1: Print numbers from 120 to 145 using range.
+# Task 1: Print squares of numbers 1 to 5
  
 
 # repeats 10 times from 1 to 10. The last number in a range is not included.
