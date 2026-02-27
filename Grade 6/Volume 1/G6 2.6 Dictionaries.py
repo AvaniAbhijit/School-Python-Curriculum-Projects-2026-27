@@ -25,3 +25,8 @@ mobile["storage"] = "128GB"
 # Remove an item using pop().
 mobile.pop("color")
 
+
+
+
+
+
