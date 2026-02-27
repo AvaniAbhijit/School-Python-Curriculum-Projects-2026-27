@@ -17,6 +17,6 @@ print(name)                  # print variable value.
                              # print variable data type.
 
 # 2. Boolean (True or False)
-#$condtion = True             # variable that has an integer value.
+#$condtion = True             # variable that has a boolean value.
                               # print variable value.
                               # print variable data type.
