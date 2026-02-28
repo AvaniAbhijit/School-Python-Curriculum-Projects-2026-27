@@ -1,6 +1,5 @@
-
-# Task: Define the left and right paddle objects on lines 29 and 32,
-#       ensuring they are vertically centered using rect_y from line 26.
+# Task: Define the parameters for left and right paddle objects on lines  28 & 31,
+#       ensuring they are vertically centered using rect_y defined on line 25.
 # 1. Left Paddle: Position 20 pixels from the left edge.
 # 2. Right Paddle: Position 20 pixels from the right edge (account for paddle width).
 # 3. Use rect_width and rect_height for dimensions.
@@ -47,3 +46,4 @@ while running:
     pygame.display.update()
 
 pygame.quit()
+
