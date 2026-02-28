@@ -1,8 +1,8 @@
 # pygame.Rect() used to create a rectangular area object with the tuple (x, y, width, height)
 # It makes the code cleaner as the Rect object can be passed to pygame.draw.rect()
 
-# Task 1: Create another WHITE vertical rectangle object - rect2.
-# Task 2: Draw rect2 below rect1, making it look like a 'T.'
+# Task 1: Create another WHITE vertical rectangle object - rect2 on line 25.
+# Task 2: Draw rect2 below rect1, making it look like a 'T on line 38.'
 
 import pygame
 
@@ -43,3 +43,4 @@ while running:
 # Quit Pygame
 
 pygame.quit()
+
