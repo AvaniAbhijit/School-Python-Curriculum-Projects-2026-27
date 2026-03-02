@@ -1,6 +1,6 @@
 # screen.fill on line 27 is used to give the screen color.
-# BG_COLOR on line 17 is a tuple variable contaning RGB values.
-
+# BG_COLOR on line 17 is a tuple variable containing RGB values.
+# A tuple is a collection of values stored inside parentheses () that cannot be changed after it is created.
 
 # Task 1: Create a WHITE tuple variable on line 18 with value (255, 255, 255).
 # Task 2 :Change the screen color to WHITE.
@@ -28,5 +28,6 @@ while running:
 
     # Update display
     pygame.display.update()
+
 
 pygame.quit()
