@@ -13,12 +13,13 @@ import turtle
 t=turtle.Turtle()
 t.shape("turtle")
 t.forward(100)        # Moves the turtle forward by 100 steps
-t.right(90)
-
-
-
-
-
+t.right(90)           # turn the turtle right using a 90-degree angle.
+                      # Move the turtle forward.
+                      # Turn the turtle right 90 degrees.
+                      # Move the turtle forward.
+                      # Turn the turtle left 90 degrees.
+                      # Move the turtle backward
 turtle.done()
+
 
 
