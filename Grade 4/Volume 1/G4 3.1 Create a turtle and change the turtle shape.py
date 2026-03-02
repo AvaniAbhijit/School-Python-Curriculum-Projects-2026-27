@@ -1,6 +1,6 @@
 # Turtle is a Python module that is used to draw shapes and pictures.
 # import is a command that helps to use the turtle module in Python.
-# There are a total of 7 different shapes of turtle.
+# Turtle has 7 different shapes - 
 #   1. turtle, square, triangle, circle, classic, arrow, blank
 #   2. By default shape of the turtle is classic
 
