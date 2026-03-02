@@ -1,9 +1,8 @@
-# Drawing Two Lines with a Gap using penup() & pendown()
-# penup(): Lifts the turtle’s pen — it moves without drawing.
-# pendown(): Puts the pen down — it starts drawing again.
+# penup(): Lifts the turtle’s pen — it moves without drawing on a line 11.
+# pendown(): Puts the pen down — it starts drawing again on line 14.
 
-# Task 1: Change the gap from 50 to 100 in line 13.
-# Task 2: Put a #(hash) before line 12, run again, and notice that lines will get connected.
+# Task 1: Change the gap from 50 to 100 in line 12.
+# Task 2: Put a #(hash) before line 11, run again, and notice that lines will get connected.
 
 import turtle
 t = turtle.Turtle()
