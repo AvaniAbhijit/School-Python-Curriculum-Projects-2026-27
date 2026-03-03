@@ -5,8 +5,8 @@
 # Mouse clicks and Window closing (QUIT event).
 # If the player closes the game window, the game quits as on lines 24 and 25.
 
-# Task 1: Write code for another if statement on line 26 to check for event.type == pygame.KEYDOWN: 
-# Task 2: When above condition is true, print("You pressed a key! Key Code:", event.key)on line 27.
+# Task 1: Write code for another if statement on line 26 to check for an event.type == pygame.KEYDOWN: 
+# Task 2: When above condition is true, print("You pressed a key! Key Code:", event.key) on line 27.
 
 import pygame
 pygame.init()
@@ -23,8 +23,9 @@ while running:
     for event in pygame.event.get():     # Check for User Quit
         if event.type == pygame.QUIT:
             running = False    
-    
-    
+                                            # Check event type inside the for loop.
+                                            # if true then print event.key.
 
     pygame.display.update()           # Update display
+
 pygame.quit()                         # Quit Pygame
