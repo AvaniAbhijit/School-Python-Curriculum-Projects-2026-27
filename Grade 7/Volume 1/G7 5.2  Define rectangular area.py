@@ -1,9 +1,9 @@
-# pygame.Rect() used to create a rectangular area object with the tuple (x, y, width, height)
-# It makes the code cleaner as the Rect object can be passed to pygame.draw.rect()
+# pygame.Rect() used to create a rectangular area object with the tuple (x, y, width, height).
+# It makes the code cleaner as the Rect object can be passed to pygame.draw.rect().
 # rect1 is the rectangular object created for the first black rectangle.
 
 # Task 1: Complete the code from 24 to 27 to create other rect objects.
-# Task 2: Replace the tuple (x, y, width, height) from line 40 to 43 with respective rect objects.
+# Task 2: Replace the tuple (x, y, width, height) from lines 40 to 43 with respective rect objects.
 
 
 import pygame
@@ -34,7 +34,7 @@ while running:
 
     screen.fill(BG_COLOR)
 
-    # Draws the white rectangle on screen at bottom of the screen.
+    # Draws the white rectangle on the screen at the bottom of the screen.
     pygame.draw.rect(screen, BLUE, (350,550,100,20))    
     pygame.draw.rect(screen, BLACK, rect1)                                                
     pygame.draw.rect(screen, BLACK, (150,10, 100, 20))                                                  
@@ -47,4 +47,5 @@ while running:
     pygame.display.update()
 
 # Quit Pygame
+
 pygame.quit()
