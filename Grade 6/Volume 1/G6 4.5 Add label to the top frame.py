@@ -22,7 +22,7 @@ top_frame.pack(fill="x")
 
 # Label inside top frame
 message_label = ctk.CTkLabel(top_frame,text="Message Encrypter", font=("Cascadia Code SemiBold", 20, "bold"), text_color="white")
-message_label.pack(fill="x", pady=5)
+message_label.pack(side="left", padx=(70,0))
 
 middle_frame = ctk.CTkFrame(root, fg_color=frame_background)
 middle_frame.pack(fill="x", expand=True)
@@ -43,3 +43,4 @@ right_middle.pack(side="right", padx=(5, 25), fill="both")
 
 
 root.mainloop()
+
