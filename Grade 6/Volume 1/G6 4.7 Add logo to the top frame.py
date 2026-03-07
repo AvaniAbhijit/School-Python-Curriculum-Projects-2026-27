@@ -63,5 +63,6 @@ right_middle.pack(side="right", padx=(5, 25), fill="both")
 message_label1 = ctk.CTkLabel(right_middle,text="Enter Secret Message", font=("Cascadia Code SemiBold", 20, "bold"), text_color="Black")
 message_label1.pack(fill="x", pady=5)
 
-
+buttons_container = ctk.CTkFrame(bottom_frame, fg_color=frame_background)
+buttons_container.pack(fill="x", expand=True, pady=15)
 root.mainloop()
