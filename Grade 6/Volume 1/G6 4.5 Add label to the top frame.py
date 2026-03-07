@@ -43,7 +43,7 @@ right_middle.pack(side="right", padx=(5, 25), fill="both")
 
 
 buttons_container = ctk.CTkFrame(bottom_frame, fg_color=frame_background)
-# Expands the frame horizontally with some vertical padding.
 buttons_container.pack(fill="x", expand=True, pady=15)
 root.mainloop()
+
 
