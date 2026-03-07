@@ -30,7 +30,7 @@ top_frame.pack(fill="x", pady=5)
 
 #Loading Images    
 logo = ctk.CTkImage(Image.open('logo.png'), size=(120, 120))  # Open the image and set its size
-#orchids_image = ctk.CTkImage(Image.open('OIS.png'), size=(100, 100))
+#orchids_image = ctk.CTkImage(Image.open('orchids.png'), size=(100, 100))
 
 # Create a first label with the logo image, no text, and pack it on the window.
 logo_image = ctk.CTkLabel(top_frame, image=logo, text="", fg_color=frame_background)
