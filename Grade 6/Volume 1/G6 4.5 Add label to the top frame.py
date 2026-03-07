@@ -1,11 +1,12 @@
 # A Label (CTkLabel) is a widget used to display text or information on the screen.
 # It is commonly used for titles, instructions, headings, or messages in a GUI application.
 
-# Task 1 : Create a label inside right_middle frame that displays on line 41 onwards:
-#           1. Enter Secret Message
-#           Hint:
-#                   Use CTkLabel
-#                   Use pack() to place it inside the frame
+# Task 1 : Write code to create a label inside the right_middle frame on line 42 onwards.
+#           1. Use CTkLabel to create the label.
+#           2. Set the text to "Enter Secret Message".
+#           3. Set the font to ("Cascadia Code SemiBold", 20, "bold").
+#           4. Set the text color to "Black".
+#           5. Use pack() to place the label inside the frame.
 
 import customtkinter as ctk
 
@@ -17,11 +18,11 @@ root.title("Crypto Message App")
 
 # Creating 3 frames for layout
 top_frame = ctk.CTkFrame(root, fg_color=frame_background, height=80)
-top_frame.pack(fill="x", pady=5)
+top_frame.pack(fill="x")
 
 # Label inside top frame
 message_label = ctk.CTkLabel(top_frame,text="Message Encrypter", font=("Cascadia Code SemiBold", 20, "bold"), text_color="white")
-message_label.place(x=100, y=20)
+message_label.pack(fill="x", pady=5)
 
 middle_frame = ctk.CTkFrame(root, fg_color=frame_background)
 middle_frame.pack(fill="x", expand=True)
