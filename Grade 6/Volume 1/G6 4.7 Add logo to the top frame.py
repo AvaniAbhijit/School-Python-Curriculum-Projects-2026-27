@@ -1,5 +1,8 @@
+# PIL stands for Python Imaging Library, which is used to open, edit, 
+# and work with images in Python.
+
 # CTkImage(Image.open('logo.png'), size=(120,120)) loads the image logo.png and
-#  resizes it to 120 × 120 pixels on line 25.
+#  resizes it to 120 × 120 pixels on line 35.
 
 # In CustomTkinter, images cannot be placed directly on the window.
 # So we attach the image to a CTkLabel widget, and the label displays the image on the screen.
@@ -15,7 +18,7 @@
 #       5. Add padding padx=(10, 20)
 
 import customtkinter as ctk
-from PIL import Image, ImageTk  # A library to work with pictures
+from PIL import Image        # A library to work with pictures
 
 frame_background = "dimgrey"  
 root = ctk.CTk()
