@@ -1,13 +1,14 @@
 # xcor() returns the current x-coordinate (horizontal position) of the turtle on the screen.
 # setx() changes the turtle's x-coordinate, moving it left or right without changing its y-position.
-# move_left() function on line 43 uses xcor() and setx() to change the left position
-#             of the basket when the LEFT arrow key is pressed.
+# On line 44, move_left() function is called when the LEFT arrow key is pressed.
+# On line 45 it determines xcor() of the turtle and decreases it by 50 steps(pixels).
+# On line 46, it uses setx() to set the new position of the turtle, to left of its current position.
 
-# Task 1: Define the function move_right() on line 47 and write the function body to
+# Task 1: Define the function move_right() on line 48 and write the function body to
 #         Calculate the x-coordinate using xcor() and add 50 to it
 #         Set the new position of the basket using setx()
-# Task 2: Change the Left and Right controls on lines 53 and 54 to 'a' and 'd' keys. Run and observe.
-
+# Task 2: Change 50 to 20 and observe the speed of the turtle movement when arrow key is pressed.
+# Task 3: Change the Left and Right controls on lines 54 and 55 to 'a' and 'd' keys. Run and observe.
 
 import turtle
 
