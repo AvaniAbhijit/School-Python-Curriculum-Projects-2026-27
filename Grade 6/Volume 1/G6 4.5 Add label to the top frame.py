@@ -6,11 +6,11 @@
 #           2. Set the text to "Enter Secret Message".
 #           3. Set the font to ("Cascadia Code SemiBold", 20, "bold").
 #           4. Set the text color to "Black".
-#           5. Use pack() to place the label inside the frame.
+#           5. Use pack() to place the label inside the frame with padx as 20 and pady as 5.
 
 import customtkinter as ctk
 
-frame_background = "dimgrey"  
+frame_background = "dimgrey"
 root = ctk.CTk()
 root.geometry("600x500")
 
@@ -45,5 +45,4 @@ right_middle.pack(side="right", padx=(5, 25), fill="both")
 buttons_container = ctk.CTkFrame(bottom_frame, fg_color=frame_background)
 buttons_container.pack(fill="x", expand=True, pady=15)
 root.mainloop()
-
 
