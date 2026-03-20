@@ -1,18 +1,18 @@
 # padx means horizontal space (left and right spacing) around a widget.
-# When we write two numbers in padx = (25, 5) - 
+# When we write two numbers in padx = (25, 5) -
 #   25 pixels space on the left side
 #   5 pixels space on the right side
 
 
 # Task: Create a frame called right_middle inside middle_frame on line 37.
-#       1. Set its background color to white
-#       2. Place it on the left side
-#       3. Give padding padx=(5, 25)
+#       1. Set its fg_color to white
+#       2. Pack it on the right side with
+#       3. Padding padx=(5, 25) and
 #       4. Fill the space using fill="both"
 
 import customtkinter as ctk
 
-frame_background = "dimgrey"  
+frame_background = "dimgrey"
 root = ctk.CTk()
 root.geometry("600x500")
 
