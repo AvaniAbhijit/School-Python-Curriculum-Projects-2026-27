@@ -1,8 +1,9 @@
 # Use conditional statement to check the basket stays within the screen boundary.
-# On line 39: x > -350: checks if the x-coordinate of basket is
-# always > the left boundary of the screen
+# On line 40: x > -350:
+# checks if the x-coordinate of basket is always > the left boundary of the screen
 
-# Task 1: Add the condition on line 44 to stop the basket move beyond boundary
+# Task 1: Add the condition on line 45 to stop the basket move beyond boundary
+# Task 2: Change the boundary check from 350 to 400 (left / right edge of the screen) on line 40 and 45.
 
 import turtle
 
