@@ -1,16 +1,16 @@
-# PIL stands for Python Imaging Library, which is used to open, edit, 
-# and work with images in Python.
+# PIL stands for Python Imaging Library, which is used to open, edit, and work with images in Python.
 
-# CTkImage(Image.open('logo.png'), size=(120,120)) loads the image logo.png and
-#  resizes it to 120 × 120 pixels on line 35.
+# Image.open('logo.png') opens the image file logo.png so it can be displayed or edited in the program
+# CTkImage(Image.open('logo.png'), size=(120,120)) converts the image so that it can be displayed
+# inside CustomTkinter Label or Button and resizes it to 120 × 120 pixels on line 35.
 
 # In CustomTkinter, images cannot be placed directly on the window.
 # So we attach the image to a CTkLabel widget, and the label displays the image on the screen.
 
-# CTkLabel(top_frame, image=logo, text="") creates a label to display the logo 
+# CTkLabel(top_frame, image=logo, text="") creates a label to display the logo
 # inside top_frame, and pack() places it on the left side of the frame.
 
-# Task : Uncomment the line 33 and Add an image to the left side of the top_frame on line 40 onwards.
+# Task : Uncomment the line 36 and Add an image to the left side of the top_frame on line 40 onwards.
 #       1. Use orchids_image as the image.
 #       2. Set text="" so only the image is shown.
 #       3. Set fg_color to frame_background.
@@ -20,7 +20,7 @@
 import customtkinter as ctk
 from PIL import Image        # A library to work with pictures
 
-frame_background = "dimgrey"  
+frame_background = "dimgrey"
 root = ctk.CTk()
 root.geometry("600x500")
 
@@ -31,7 +31,7 @@ top_frame = ctk.CTkFrame(root, fg_color=frame_background, height=80)
 top_frame.pack(fill="x", pady=5)
 
 
-#Loading Images    
+#Loading Images
 logo = ctk.CTkImage(Image.open('logo.png'), size=(120, 120))  # Open the image and set its size
 #orchids_image = ctk.CTkImage(Image.open('orchids.png'), size=(100, 100))
 
