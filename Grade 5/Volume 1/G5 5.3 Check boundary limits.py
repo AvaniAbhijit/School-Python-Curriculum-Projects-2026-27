@@ -1,9 +1,9 @@
-# Use conditional statement to check the basket stays within the screen boundary.
+# Use a conditional statement to check that the basket stays within the screen boundary.
 # On line 40: x > -350:
-# checks if the x-coordinate of basket is always > the left boundary of the screen
+# checks if the x-coordinate of the basket is always > the left boundary of the screen
 
-# Task 1: Add the condition on line 45 to stop the basket move beyond boundary
-# Task 2: Change the boundary check from 350 to 400 (left / right edge of the screen) on line 40 and 45.
+# Task 1: Add the condition on line 45 to stop the basket from moving beyond the right side boundary
+# Task 2: Change the boundary check from 350 to 400 (left / right edge of the screen) on lines 40 and 45.
 
 import turtle
 
@@ -37,12 +37,12 @@ fruit2.goto(200, 250)
 # Basket Movement
 def move_left():
     x = basket.xcor() - 50
-    if x > -350:                    # Check if the basket has not gone beyond 350 on left
+    if x > -350:                    # Check if the basket has not gone beyond 350 on the left
         basket.setx(x)              # Then only set the new x coordinate position
 
 def move_right():
     x = basket.xcor() + 50
-    basket.setx(x)                  # Check if the basket has not gone beyond 350 on right
+    basket.setx(x)                  # Check if the basket has not gone beyond 350 on the right
 
 screen.listen()
 screen.onkey(move_left, "Left")
