@@ -1,0 +1,63 @@
+﻿Create a modern futuristic neon arcade game called "Neon Drift" using React, TypeScript, Tailwind CSS, Framer Motion, and shadcn/ui.
+The game should feel like a premium browser game with smooth animations, glowing neon visuals, reactive particles, and highly polished UI/UX.
+
+
+Core Gameplay: The player controls a glowing geometric cube/rect. The cube automatically moves forward continuously from left to right. On every click/tap, the movement direction switches diagonally:
+First click → move diagonally upward at 45 degrees Second click → move diagonally downward at -45 degrees Repeated clicking alternates between the two directions.
+The objective is to avoid obstacles and survive as long as possible. Difficulty gradually increases over time.
+Smooth collision detection and responsive controls are important.
+
+
+Visual Style: Futuristic neon cyberpunk aesthetic
+* Dark background with glowing gradients
+* Neon cyan, purple, pink, and electric blue accents. 
+* Heavy use of glow effects and soft lighting
+* Particle trails behind the player. 
+* Animated background particles/grid 
+* Smooth visual effects during movement
+* Minimalist but premium design 
+* Geometry Dash + Super Hexagon inspired atmosphere
+* Modern arcade feel
+
+
+UI/UX Requirements: 
+* Beautiful animated main menu
+* Start game screen
+* Pause menu
+* Game over screen with animated transitions
+* Score counter
+* High score display
+* Smooth loading transitions
+* Settings panel UI
+* Responsive design for desktop and tablet
+* Modern typography and spacing
+* Audio toggle UI
+* Elegant hover animations and microinteractions
+
+
+Gameplay Visual Effects: Player leaves glowing trail particles Collision creates satisfying neon explosion effect
+* Obstacles have animated glow
+* Camera shake effect on collision
+* Dynamic speed feeling through motion effects
+* Smooth movement interpolation
+* Pulsing neon effects
+
+
+Technical Requirements:
+* Clean scalable folder structure
+* Organized components, hooks, utilities, and game logic
+* Centralized theme colors using CSS variables
+* Modular reusable UI components
+* Maintainable and readable code
+* Separate game engine logic cleanly from UI components
+* Responsive canvas/game area
+* Animation Expectations:
+* Framer Motion transitions
+* Smooth menu animations
+* Floating neon background effects
+* Reactive UI animations
+* Polished game feel throughout
+* Premium startup animation sequence
+
+
+Important: Prioritize polished game feel, smooth animations, premium neon aesthetics, maintainable frontend architecture, and responsive gameplay experience over adding too many mechanics.
