@@ -102,7 +102,7 @@ buttons_container = ctk.CTkFrame(bottom_frame, fg_color=frame_background)
 buttons_container.pack(fill="x", expand=True, pady=15)
 
 open_img = ctk.CTkImage(Image.open("open_file.png"), size=(25, 25))
-encrypt_img = ctk.CTkImage(Image.open("encryption.png"), size=(25, 25))
+encrypt_img = ctk.CTkImage(Image.open("encrypt.png"), size=(25, 25))
 decrypt_img = ctk.CTkImage(Image.open("decrypt.png"), size=(25, 25))
 
 open_button = ctk.CTkButton(
