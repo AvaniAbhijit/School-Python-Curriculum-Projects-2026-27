@@ -1,6 +1,6 @@
 # Create a White Dashed Road Line from line 88 onwards.
 
-# Task 1: Using penup() Move the turtle to (-380, -260), set the color to white and pen size to 5.
+# Task 1: Using penup() Move the turtle to (-380, -260), set the color to white and pen size to 5 and turn the turtle to the left 90 degree.
 # Task 2: Using for loop ,penup() and pendown(), draw 20 white dashes
 #        where each dash is 20 pixels long with a 20-pixel gap between them.
 
